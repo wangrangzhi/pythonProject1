@@ -6,5 +6,6 @@ def main():
     print(10/6)
 
     if(8>6):
+
         print("d")
 main()
